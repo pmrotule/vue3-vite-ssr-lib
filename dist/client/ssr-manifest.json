@@ -1,0 +1,34 @@
+{
+  "\u0000plugin-vue:export-helper": [
+    "/MyButton-02c8503b.mjs",
+    "/MyButton.css"
+  ],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/MyButton-02c8503b.mjs",
+    "/MyButton.css"
+  ],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/MyButton-02c8503b.mjs",
+    "/MyButton.css"
+  ],
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/MyButton-02c8503b.mjs",
+    "/MyButton.css"
+  ],
+  "node_modules/vue/dist/vue.runtime.esm-bundler.js": [
+    "/MyButton-02c8503b.mjs",
+    "/MyButton.css"
+  ],
+  "src/components/HelloWorld.vue": [
+  ],
+  "src/components/HelloWorld.vue?used&vue&type=style&index=0&lang.module.scss": [
+  ],
+  "src/components/MyButton.vue": [
+    "/MyButton-02c8503b.mjs",
+    "/MyButton.css"
+  ],
+  "src/components/MyButton.vue?used&vue&type=style&index=0&lang.module.scss": [
+    "/MyButton-02c8503b.mjs",
+    "/MyButton.css"
+  ]
+}

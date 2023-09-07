@@ -1,0 +1,22 @@
+{
+  "name": "vite-vue-ssr-lib",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run build:client && npm run build:server",
+    "build:client": "vite build --ssrManifest",
+    "build:server": "vite build --ssr",
+    "serve": "vite preview"
+  },
+  "engines": {
+    "node": "18.17.x"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "^4.3.4",
+    "@types/node": "^18.7.14",
+    "sass": "^1.66.1",
+    "vite": "^4.4.9",
+    "vite-plugin-lib-inject-css": "^1.2.1",
+    "vue": "^3.3.4"
+  }
+}
