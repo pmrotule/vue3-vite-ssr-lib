@@ -39,5 +39,6 @@ export default defineConfig({
       formats: ['es'],
     },
     cssCodeSplit: true,
+    ssrEmitAssets: true,
   },
 })
